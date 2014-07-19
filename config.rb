@@ -1,3 +1,5 @@
+# require 'bootstrap-sass' Remove '#' if using Compass
+
 http_path = "/"
 css_dir = "css"
 sass_dir = "sass"
